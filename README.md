@@ -1,1 +1,1 @@
-#Solution for Comparator Quiz on Hackerank
+# Solution for Comparator Quiz on Hackerank
